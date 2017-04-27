@@ -1,6 +1,3 @@
 class world:
-  def main():
+  def notCovered():
     print 'Hello, world!'
- 
-if __name__ == '__main__':
-  main()
